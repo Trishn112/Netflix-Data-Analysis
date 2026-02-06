@@ -1,6 +1,7 @@
 # Netflix-Data-Analysis
 Data Analysis of Netflix Movies &amp; TV Shows using Python 
-ALL RESULT IN PONITS AFTER THE WHOLE ANALYSIS :-
+
+ ALL RESULT IN PONITS AFTER THE WHOLE ANALYSIS :-
 
 ->The following significant findings were attained following data cleaning, exploratory data analysis, and visualization on  the Netflix dataset:
 
